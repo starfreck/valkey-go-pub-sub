@@ -1,0 +1,4 @@
+github.com/valkey-io/valkey-go v1.0.43 h1:VptF6sYuz/aLokvWKsL7l7VvEXHsymRdFY1wESS9xwI=
+github.com/valkey-io/valkey-go v1.0.43/go.mod h1:LXqAbjygRuA1YRocojTslAGx2dQB4p8feaseGviWka4=
+golang.org/x/sys v0.24.0 h1:Twjiwq9dn6R1fQcyiK+wQyHWfaz/BJB+YIpzU/Cv3Xg=
+golang.org/x/sys v0.24.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
